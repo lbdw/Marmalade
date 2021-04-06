@@ -19,6 +19,6 @@ Currently, the software is suitable for modeling fractionation of mafic magma in
 3. About output parameters:
 Currently, the software can predict the composition of the melt and proportions of several phases including 'Liquid', 'Clinopyroxene', 'Olivine', 'Garnet', 'Plagioclase', 'Amphibole', 'Orthopyroxene'.
 
-An example of modeling fractionation of hydrous magmas.
+An example of modeling fractionation of hydrous magmas. This work is presented as an abstract at Goldschmidt 2021 (Abstract #6433).
 
 ![gold_fig](https://user-images.githubusercontent.com/30700234/113654301-2150cb00-965d-11eb-9e2c-98c5cdcb20bf.png)
