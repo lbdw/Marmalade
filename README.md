@@ -1,8 +1,8 @@
 # Marmalade 0.1 beta
 
-# Author: Boda Liu
-# Contact: boda_liu@hotmail.com
-# Starting date: 2021/1/17
+Author: Boda Liu
+Contact: boda_liu@hotmail.com
+Starting date: 2021/1/17
 
 Marmalade (Magma Remake with Machine Learning and Data from Experiments) 岩石学机器学习软件
 
