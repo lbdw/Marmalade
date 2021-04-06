@@ -15,7 +15,7 @@ The input bulk composition takes a number of components: 'SiO2','TiO2','Al2O3','
 Input intensive variables include temperature (celsius), pressure (GPa), and oxygen fugacity (relative to QFM). Please refer to B. R. Frost (1991) in Mineralogical Society of America "Reviews in Mineralogy" Volume 25 to convert fO2 relative to other oxygen buffers to delta QFM.
 
 2. About potential applications:
-Currently, the software is suitable for modeling fractionation of mafic magma in the T, P range, 650-1350C and 0-3GPa respectively. The oxygen fugacity better be within QFM+-2.
+Currently, the software is suitable for modeling fractionation of mafic magma in the T, P range, 650-1350C and 0-3GPa respectively. The oxygen fugacity would better be within QFM+-2.
 
 3. About output parameters:
 Currently, the software can predict the composition of the melt and proportions of several phases including 'Liquid', 'Clinopyroxene', 'Olivine', 'Garnet', 'Plagioclase', 'Amphibole', 'Orthopyroxene'.
